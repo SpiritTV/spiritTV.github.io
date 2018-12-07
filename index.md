@@ -16,3 +16,7 @@
 2. 其他程序运行报错：打开app点击关闭，重启即可。
 
 ### 联系方式
+
+![QQ](https://github.com/SpiritTV/spiritTV.github.io/raw/master/qq.jpg)
+  
+![weixin](https://github.com/SpiritTV/spiritTV.github.io/raw/master/wx.jpg)
