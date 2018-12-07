@@ -1,0 +1,67 @@
+rm -rf /data/data/com.chaozhuo.texteditor.phoenixos
+rm -rf /data/data/com.chaozhuo.filemanager.phoenixos
+rm -rf /data/data/com.chaozhuo.browser.x86
+rm -rf /data/data/com.chaozhuo.feedback
+rm -rf /data/data/com.chaozhuo.novicehelp
+rm -rf /data/data/com.chaozhuo.setupwizard
+rm -rf /data/data/com.chaozhuo.update
+rm -rf /data/data/com.chaozhuo.voicerecorder
+rm -rf /data/data/com.chaozhuo.recommendedapp
+rm -rf /data/data/com.chaozhuo.phoenixonelauncher.x86
+rm -rf /data/data/com.google.android.gms
+rm -rf /data/data/com.google.android.gms.setup
+rm -rf /data/data/com.android.vending
+rm -rf /data/data/com.android.email
+rm -rf /data/dalvik-cache/x86/system@app@CZFeedback@CZFeedback.apk@classes.art
+rm -rf /data/dalvik-cache/x86/system@app@CZFeedback@CZFeedback.apk@classes.dex
+rm -rf /data/dalvik-cache/x86/system@app@CZTextEditor@CZTextEditor.apk@classes.art
+rm -rf /data/dalvik-cache/x86/system@app@CZTextEditor@CZTextEditor.apk@classes.dex
+rm -rf /data/dalvik-cache/x86/system@app@CZVoiceRecorder@CZVoiceRecorder.apk@classes.art
+rm -rf /data/dalvik-cache/x86/system@app@CZVoiceRecorder@CZVoiceRecorder.apk@classes.dex
+rm -rf /data/dalvik-cache/x86/system@app@FileManager@FileManager.apk@classes.art
+rm -rf /data/dalvik-cache/x86/system@app@FileManager@FileManager.apk@classes.dex
+rm -rf /data/dalvik-cache/x86/system@app@StardustBrowser_pad@StardustBrowser_pad.apk@classes.art
+rm -rf /data/dalvik-cache/x86/system@priv-app@CZSetupWizard@CZSetupWizard.apk@classes.art
+rm -rf /data/dalvik-cache/x86/system@priv-app@CZSetupWizard@CZSetupWizard.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@app@CZRecommended@CZRecommended.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@app@CZRecommended@CZRecommended.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@app@Email@Email.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@app@Email@Email.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@app@PhoenixOneForx86@PhoenixOneForx86.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@app@PhoenixOneForx86@PhoenixOneForx86.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@CZNoviceHelp@CZNoviceHelp.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@CZNoviceHelp@CZNoviceHelp.apk@classes.dexCZNoviceHelp
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@CZStatisticsProvider@CZStatisticsProvider.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@CZStatisticsProvider@CZStatisticsProvider.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@CZSystemUpdate@CZSystemUpdate.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@CZSystemUpdate@CZSystemUpdate.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@GmsCore@GmsCore.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@GmsCoreSetup@GmsCoreSetup.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@GmsCoreSetup@GmsCoreSetup.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@Phonesky@Phonesky.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@Phonesky@Phonesky.apk@classes.dex
+StardustBrowser_padEmail/rm -rf /system/priv-app/CZNoviceHelp/CZNoviceHelp.apk
+rm -rf /system/priv-app/CZSetupWizard/CZSetupWizard.apk
+rm -rf /system/priv-app/CZSystemUpdate/CZSystemUpdate.apk
+rm -rf /system/priv-app/GmsCore/GmsCore.apk
+rm -rf /system/priv-app/GmsCoreSetup/GmsCoreSetup.apk
+rm -rf /system/priv-app/Phonesky/Phonesky.apk
+rm -rf /system/priv-app/CZNoviceHelp/CZNoviceHelp.apk
+rm -rf /system/app/CZFeedback/CZFeedback.apk
+rm -rf /system/app/CZRecommended/CZRecommended.apk
+rm -rf /system/app/CZTextEditor/CZTextEditor.apk
+rm -rf /system/app/CZVoiceRecorder/CZVoiceRecorder.apk
+rm -rf /system/app/Email/Email.apk
+rm -rf /system/app/FileManager/FileManager.apk
+rm -rf /system/app/PhoenixOneForx86/PhoenixOneForx86.apk
+rm -rf /system/app/StardustBrowser_pad/StardustBrowser_pad.apk
+rm -rf /data/dalvik-cache/x86_64/system@app@Email@Email.apk@classes.dexrm -rf /data/data/com.chaozhuo.filemanager.phoenixosrm -rf /data/dalvik-cache/x86_64/system@app@PhoenixOneForx86@PhoenixOneForx86.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@app@PhoenixOneForx86@PhoenixOneForx86.apk@classes.dexrm -rf /data/dalvik-cache/x86_64/system@priv-app@CZSystemUpdate@CZSystemUpdate.apk@classes.artrm -rf /data/data/com.chaozhuo.phoenixonelauncher.x86
+rm -rf /data/data/com.google.android.gmsrm -rf /data/data/com.google.android.gms.setuprm -rf /data/data/com.android.vendingrm -rf /data/data/com.android.emailrm -rf /data/dalvik-cache/x86/system@app@CZTextEditor@CZTextEditor.apk@classes.artrm -rf /data/data/com.chaozhuo.texteditor.phoenixosrm -rf /data/dalvik-cache/x86/system@app@CZTextEditor@CZTextEditor.apk@classes.dexrm -rf /data/dalvik-cache/x86/system@app@FileManager@FileManager.apk@classes.artrm -rf /data/dalvik-cache/x86/system@app@FileManager@FileManager.apk@classes.dexrm -rf /data/dalvik-cache/x86_64/system@app@Email@Email.apk@classes.artrm -rf /data/dalvik-cache/x86_64/system@priv-app@CZSystemUpdate@CZSystemUpdate.apk@classes.dexrm -rf /data/dalvik-cache/x86_64/system@priv-app@GmsCore@GmsCore.apk@classes.dexrm -rf /data/dalvik-cache/x86_64/system@priv-app@GmsCoreSetup@GmsCoreSetup.apk@classes.artrm -rf /data/dalvik-cache/x86_64/system@priv-app@GmsCoreSetup@GmsCoreSetup.apk@classes.dex
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@Phonesky@Phonesky.apk@classes.art
+rm -rf /data/dalvik-cache/x86_64/system@priv-app@Phonesky@Phonesky.apk@classes.dexrm -rf /system/priv-app/CZSystemUpdate/CZSystemUpdate.apkrm -rf /system/priv-app/GmsCore/GmsCore.apkrm -rf /system/priv-app/GmsCoreSetup/GmsCoreSetup.apkrm -rf /system/priv-app/Phonesky/Phonesky.apkrm -rf /system/app/CZTextEditor/CZTextEditor.apk
+rm -rf /system/app/Email/Email.apk
+rm -rf /system/app/FileManager/FileManager.apkrm -rf /system/app/PhoenixOneForx86/PhoenixOneForx86.apkrm -rf /data/data/com.tencent.tmgp.pubgmhd/files
+
+echo "finish, reboot now"
+reboot
