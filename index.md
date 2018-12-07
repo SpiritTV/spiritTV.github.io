@@ -1,5 +1,13 @@
 ### 下载地址
 
+
+
+#### 本地下载
+
+[hello初始化文件](https://pan.baidu.com/s/10cxtjRmG3fzm83t7A-UtHg) 
+[APP安装文件](https://pan.baidu.com/s/10cxtjRmG3fzm83t7A-UtHg) 
+
+#### 百度网盘
  [百度云](https://pan.baidu.com/s/10cxtjRmG3fzm83t7A-UtHg) 
  提取码: r1yy
 
