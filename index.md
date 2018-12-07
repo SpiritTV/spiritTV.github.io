@@ -4,8 +4,8 @@
 
 #### 本地下载
 
-[hello初始化文件](https://pan.baidu.com/s/10cxtjRmG3fzm83t7A-UtHg) 
-[APP安装文件](https://pan.baidu.com/s/10cxtjRmG3fzm83t7A-UtHg) 
+[hello初始化文件](https://github.com/SpiritTV/spiritTV.github.io/raw/master/hello) 
+[APP安装文件](https://github.com/SpiritTV/spiritTV.github.io/raw/master/app-release.apk) 
 
 #### 百度网盘
  [百度云](https://pan.baidu.com/s/10cxtjRmG3fzm83t7A-UtHg) 
