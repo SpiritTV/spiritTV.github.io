@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 凤凰OS HelloWorld
+### 下载地址
 
-You can use the [editor on GitHub](https://github.com/SpiritTV/spiritTV.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ [百度云](https://pan.baidu.com/s/10cxtjRmG3fzm83t7A-UtHg) 
+ 提取码: r1yy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 安装说明
 
-### Markdown
+1. 下载hello，放至内置存储；按alt + F1进入命令行，执行`sh sdcard/hello`，完成后会自动重启。
+2. 下载app-realase.apk，安装后执行，赋予超级用户权限，完成注册。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 使用说明
+1. 点开启，出现成功提示后，开启游戏。
+2. 结束游戏后，点关闭。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SpiritTV/spiritTV.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 常见问题
+1. app打开提示错误：确保网络连接正常后再开启APP。
+2. 其他程序运行报错：打开app点击关闭，重启即可。
